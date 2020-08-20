@@ -13,7 +13,6 @@ The main idea is simply to start working on your code by writing automated tests
 - [Jest](https://jestjs.io/) - JavaScript Testing Framework
 - [Babel](https://babeljs.io/) - JavaScript transpiler
 - [ESLint](https://eslint.org/) - A linter tool to standardize code
-- [Prettier](https://prettier.io/) - Code formatter
 
 ## More information
 

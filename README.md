@@ -2,7 +2,7 @@
 
 ## Description
 
-[Odin] TDD (Test Driven Development) practice using Jest.
+[Odin] TDD (Test Driven Development) Js-testing-practice using Jest.
 
 This repository contains multiple functions separated each within its folder containing two files: the module `function.js` and a Jest test file `function.test.js`.
 

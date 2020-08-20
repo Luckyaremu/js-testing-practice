@@ -9,4 +9,4 @@ const analyze = (array) => {
   return result;
 };
 
-export default analyze
+export default analyze;

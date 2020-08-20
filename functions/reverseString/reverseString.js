@@ -1,6 +1,6 @@
 const reverseString = (s) => {
-  let reversedString = Array.from(s).reverse().join('')
-  return String(reversedString)
-}
+  const reversedString = Array.from(s).reverse().join('');
+  return String(reversedString);
+};
 
-export default reverseString
+export default reverseString;

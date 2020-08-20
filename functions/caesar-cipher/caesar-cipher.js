@@ -1,5 +1,9 @@
+const mod26 = (num) => num % 26;
+
+const checkUpperCase = (char) => char === char.toUpperCase();
+
 const caesarCipher = (str, key) => {
-  const alphabet = Array.from("abcdefghijklmnopqrstuvwxyz");
+  const alphabet = Array.from('abcdefghijklmnopqrstuvwxyz');
 
   const encoded = Array.from(str).map((char) => {
     const isUpperCase = checkUpperCase(char);
@@ -15,11 +19,8 @@ const caesarCipher = (str, key) => {
     return isUpperCase ? shiftedChar.toUpperCase() : shiftedChar;
   });
 
-  return encoded.join("");
+  return encoded.join('');
 };
 
-const mod26 = (num) => num % 26;
 
-const checkUpperCase = (char) => char === char.toUpperCase();
-
-export default caesarCipher
+export default caesarCipher;

@@ -1,6 +1,6 @@
 function capitalize(str) {
-  if (typeof str !== 'string') return ''
-  return str.charAt(0).toUpperCase().concat(str.slice(1).toLowerCase())
+  if (typeof str !== "string") return "";
+  return str.charAt(0).toUpperCase().concat(str.slice(1).toLowerCase());
 }
 
-export default capitalize
+export default capitalize;

@@ -12,7 +12,7 @@ The main idea is simply to start working on your code by writing automated tests
 
 - Clone the repository on your local machine
 - cd into the folder, find the index.html file and open it
-- npm install --save-dev jest
+- npm install
 - npm test
 
 ### Libraries, extensions and tools

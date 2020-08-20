@@ -1,5 +1,4 @@
-function reverseString(s) {
-  // let reversedString = Array.from(s).reverse()
+const reverseString = (s) => {
   let reversedString = Array.from(s).reverse().join('')
   return String(reversedString)
 }

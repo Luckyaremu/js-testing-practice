@@ -8,8 +8,6 @@ This repository contains multiple functions separated each within its folder con
 
 The main idea is simply to start working on your code by writing automated tests before writing the code that is being tested.
 
-
-
 ## Setup
 
 - Clone the repository on your local machine

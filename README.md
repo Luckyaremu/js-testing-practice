@@ -1,2 +1,2 @@
 # js-testing-practice
-This project is JavaScript testing practice.
+This project is for practicing testing with Jest.
